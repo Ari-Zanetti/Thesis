@@ -1,0 +1,5 @@
+numpy
+paramiko
+scp
+cython
+profanityfilter

@@ -1,0 +1,22 @@
+## Program realized for the master thesis project.
+To execute, you need to install:
+
+- python3
+- pip install -r requirements.txt
+- eflomal -> Github
+
+Update the file thesis.utils.config with the necessary data:
+
+- server where your parallel corpus is loaded
+
+host =
+port = 
+user = 
+password = 
+remote_folder = 
+
+- path to the eflomal cloned git project and the desired name for the output file
+
+eflomal_path = "/home/eflomal/eflomal"
+outputfile = "output_aligned.txt"
+
